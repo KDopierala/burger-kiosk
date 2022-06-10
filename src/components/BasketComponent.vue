@@ -10,7 +10,7 @@
       v-if="this.$store.state.receipt.length == 0"
       class="fw-bold text-center pt-5 text-muted"
     >
-      Trochę tu pusto :(<br />Śmiało, dodaj coś z menu!
+      Trochę tu pusto :(<br />Śmiało, dodaj coś z menu!!!!
     </h5>
     <div
       v-else
